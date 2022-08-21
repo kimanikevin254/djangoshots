@@ -4,6 +4,9 @@ A repository containing various approaches for taking web screenshots using Djan
 To run on your local machine:
 
 - clone the repository.
+```bash
+git clone https://github.com/kimanikevin254/djangoshots.git
+```
 - create a a virtual environment. 
 ```bash
 python3 -m venv env
